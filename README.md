@@ -58,7 +58,7 @@ Once that is done clone the repository and create a new virtual environment that
 
 ``` bash
 git clone https://github.com/MohabAnwar921/draw-me-kiosk.git
-cd thd-draw
+cd draw-me-kiosk
 ```
 
 ``` bash
