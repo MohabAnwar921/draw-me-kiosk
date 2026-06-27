@@ -105,7 +105,7 @@ Note that upon the first time running the app and calling the rembg function an 
 - To stop the drawing and return the pen into the start position, press on the physical button found on the AxiDraw itself.
 
 # Adding a watermark
-To add a watermark on each drawing replace `app/static/thd_watermark.svg` with your transperant background .svg file with 350x75 pixels
+To add a watermark on each drawing replace `app/data/static/thd_watermark.svg` with your transperant background .svg file with 350x75 pixels
 
 # Notes on the "build.spec" file
 
