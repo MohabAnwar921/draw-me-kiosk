@@ -1,0 +1,14 @@
+<!-- You can define the default parameters for the application here. -->
+<default_params>
+
+    <param name="drawing_time_limit" type="int">15</param> <!-- minutes -->
+    <param name="watermark_position" type="string">Top left</param> <!-- Options: Top left, Top right, Bottom left, Bottom right -->
+    <param name="draw_hatch" type="bool">true</param> <!-- Draws the hatch line by default for each new drawing -->
+    <param name="resolution" type="int">3000</param> <!-- default value -->
+    <param name="max_resolution" type="int">4500</param> <!-- upper bound for the user -->
+    <param name="min_resolution" type="int">2000</param> <!-- lower bound for the user -->
+    <param name="hatch_size" type="int">25</param> <!-- default value, thickness of the hatch lines -->
+    <param name="hatch_size_max" type="int">40</param> <!-- upper bound for the user -->
+    <param name="hatch_size_min" type="int">5</param> <!-- lower bound for the user -->
+    
+</default_params>
