@@ -104,6 +104,9 @@ Note that upon the first time running the app and calling the rembg function an 
 - The **Control (Queue) window** is accessible via the play button on the top left there the sketch requests are shown on a list on the left side and on the bottom side a button ribbon allows the admin to delete jobs, display a preview, start a drawing, toggle the AxiDraw's pen position up or down.
 - To stop the drawing and return the pen into the start position, press on the physical button found on the AxiDraw itself.
 
+# Adding a watermark
+To add a watermark on each drawing replace `app/static/thd_watermark.svg` with your transperant background .svg file with 350x75 pixels
+
 # Notes on the "build.spec" file
 
 - This file was created to build the project as binary via **pyinstaller** and is not tested yet.
