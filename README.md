@@ -1,4 +1,4 @@
-# Draw me kiosk
+# Vincent
 
 <table align="center">
   <tr>
@@ -57,8 +57,8 @@ sudo apt install python3-picamera2
 Once that is done clone the repository and create a new virtual environment that inherits the system site packages and install the rest with pip
 
 ``` bash
-git clone https://github.com/MohabAnwar921/draw-me-kiosk.git
-cd draw-me-kiosk
+git clone https://github.com/MohabAnwar921/vincent.git
+cd vincent
 ```
 
 ``` bash
